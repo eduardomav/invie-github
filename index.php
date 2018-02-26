@@ -17,6 +17,8 @@
 	<p>Esta es una página de prueba:</p>
 	<?php echo "<p>Hola Mundo</p>"; ?>
 	<img src="estructura.png">
+	<p>Este es un ejemplo de otra estructura</p>
+	<img src="mapa.png">
 
 </body>
 </html>
